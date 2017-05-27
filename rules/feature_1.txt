@@ -1,0 +1,2 @@
+3 fizz
+5 buzz

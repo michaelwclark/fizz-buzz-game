@@ -1,0 +1,22 @@
+{
+  "name": "fizz-buzz-game",
+  "version": "1.0.0",
+  "description": "Fizz Buzz Kata solver",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelwclark/fizz-buzz-game.git"
+  },
+  "author": "Michael W. Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelwclark/fizz-buzz-game/issues"
+  },
+  "homepage": "https://github.com/michaelwclark/fizz-buzz-game#readme",
+  "dependencies": {
+    "jest": "^20.0.4"
+  }
+}
